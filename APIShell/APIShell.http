@@ -1,0 +1,6 @@
+@APIShell_HostAddress = http://localhost:5272
+
+GET {{APIShell_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
